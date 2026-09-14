@@ -11,3 +11,19 @@ Habilidades: Data Modeling, Galaxy Schema, DAX, Power Query, RLS, Data Validatio
 Tecnologias: Power BI, Power Query, DAX, Excel
 
 Resultados: Modelo semântico dimensional integrado, validado e preparado para análises multidimensionais, com Row-Level Security para controle de acesso aos dados.
+
+<br>
+
+___
+
+### 1. Dados brutos importados:
+<p align="center">
+  <img src="https://github.com/angelo-vrsc/powerbi-modelagem-com-dados-desorganizados/blob/main/docs/messy_data_model.png" width="1000" alt="messy_data_model">
+</p>
+
+<br>
+
+### 2. Dados tratados e modelados (Galaxy Schema):
+<p align="center">
+  <img src="https://github.com/angelo-vrsc/powerbi-modelagem-com-dados-desorganizados/blob/main/docs/galaxy_data_model.png" width="1000" alt="galaxy_data_model">
+</p>
